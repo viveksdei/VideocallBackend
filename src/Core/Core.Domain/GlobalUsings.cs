@@ -1,0 +1,1 @@
+﻿global using Core.Domain._base;
